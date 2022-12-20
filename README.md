@@ -39,26 +39,30 @@ The first thing to do is to access this link https://account.thethingsnetwork.or
 
 ![image](https://user-images.githubusercontent.com/63775967/208692032-88e594d9-1ad0-49d5-8b17-d47b6f83dfb7.png)
 
-Next, we will be shown 2 options, "Applications" and "Gateways". This time we will start by configuring the end device, so we select "Applications".
+Next, it will be shown 2 options, "Applications" and "Gateways". This time we will start by configuring the end device, so we select "Applications".
 
 ![image](https://user-images.githubusercontent.com/63775967/208692256-29b96ee9-bb58-4814-b1e5-57784ca61c33.png)
 
 Before registering a node in TTN, we need to create an application. These allow you to manage different devices and facilitate device management. To create one, we must enter a name, a description (optional) and the App EUI, although the latter is generated automatically. When we have completed the data, we click on "Add application".
 
+![image](https://user-images.githubusercontent.com/63775967/208692895-984378a1-85e7-4ced-bcfa-984cc02d9c22.png)
+
+Next, a menu will appear where we will be able to manage the different parameters of our application. In order to register a node, we must click on the upper tab called "Devices".
+
+![image](https://user-images.githubusercontent.com/63775967/208693078-f7b5b10a-172b-461e-81d7-15df91ee9211.png)
+
+Once we have accessed the "Devices" option, we select the "register device" option and the following menu will appear device" and the following menu will appear:
+
+![image](https://user-images.githubusercontent.com/63775967/208693217-9537b19e-c7cd-4ffb-b38d-771a91946bd8.png)
+
+The parameters that must be entered are:
+- Device ID: This is the name by which we are going to identify our node within the application. the application.
+Device EUI: Unique identifier for each device within the TTN network. We can write it We can write it ourselves or we can generate it randomly. It is made up of 8 bytes.
+- App Key: Made up of 16 bytes, this is a code that ensures communication between the node and the network. communication between the node and the TTN network. Like the Device EUI, it can be written by us or randomly created by us. or we can create one at random.
+
+When we have completed all the fields, click on the "Register" button and we will have registered our node in TTN. The figure shows the menu where we can manage the different parameters of our node, such as the name we have assigned it, the activation method (OTAA in this case), or the necessary keys to connect it to the TTN network.
+
+![image](https://user-images.githubusercontent.com/63775967/208693649-ea6b96bc-d1ab-4234-8122-2e938f27851a.png)
 
 
 
-
-<h2>Screenshots, gifs</h2>
-
-
-<h2>Links to additional documentation, like coding standards, etc..</h2>
-
-
-<h2>Credits</h2>
-
-
-<h2>References</h2>
-
-
-<h2>License</h2>
