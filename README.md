@@ -1,7 +1,8 @@
 # LoRaWAN-COVID-19
  IoT CO2 measurement system for COVID-19 prevention based on LoRaWAN
 
-<h2>Introduction with an overview</h2>
+<h2>Introduction</h2>
+This is an IoT project based on ESP32 devices that measure CO2 levels, temperature and humidity. This data is sent to a gateway via LoRaWAN communication, where it can be visualised with an IoT dashboard.
 
 
 <h2>Device Setup</h2>
