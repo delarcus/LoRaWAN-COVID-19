@@ -11,7 +11,7 @@ In this project, developed for my Bachelor's thesis, I designed an IoT system us
 ## 💻 Technologies and Protocols
 - **LoRaWAN** 📡: For efficient, long-range IoT communication.
 - **Telegram Integration** 💬: For immediate alert notifications.
-- **Data Visualization** 📊: Utilizes IoT dashboards for real-time data presentation.
+- **Data Visualization** 📊: Datacake as the dashboard for real-time data presentation.
 - **IoT Sensors** 🌦️: Specifically designed for CO2, temperature, and humidity measurements.
 
 ## 💻 Gateway and physical device
@@ -24,9 +24,6 @@ In this project, developed for my Bachelor's thesis, I designed an IoT system us
 
 <img src="https://user-images.githubusercontent.com/63775967/208691574-85450093-3431-47a1-b773-7f787e4fa46c.png" width="50%" height="50%">
 
-  
-## 📊 Diagrams
-Visual representations of the system architecture and data flow, showcasing the interaction between different components.
 
 ## 📜 License
 This project is licensed under MIT License - [See LICENSE](LICENSE) for details.
