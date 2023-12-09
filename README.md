@@ -14,15 +14,15 @@ In this project, developed for my Bachelor's thesis, I designed an IoT system us
 - **Data Visualization** 📊: Utilizes IoT dashboards for real-time data presentation.
 - **IoT Sensors** 🌦️: Specifically designed for CO2, temperature, and humidity measurements.
 
-## 💻 Technologies and Protocols
+## 💻 Gateway and physical device
 
-<img src="https://user-images.githubusercontent.com/63775967/208689677-cccc398a-689d-4d11-8181-ca14238ee3c0.png" width="75%" height="75%">
+<img src="https://user-images.githubusercontent.com/63775967/208689677-cccc398a-689d-4d11-8181-ca14238ee3c0.png" width="50%" height="50%">
 
-<img src="https://user-images.githubusercontent.com/63775967/208689914-beb74227-a8fd-457c-8648-2a8fe3cd0048.png" width="75%" height="75%">
+<img src="https://user-images.githubusercontent.com/63775967/208689914-beb74227-a8fd-457c-8648-2a8fe3cd0048.png" width="50%" height="50%">
 
-<img src="https://user-images.githubusercontent.com/63775967/208690833-9e37cf0a-6f16-41ea-96f6-f37910d6d4e4.png" width="75%" height="75%">
+<img src="https://user-images.githubusercontent.com/63775967/208690833-9e37cf0a-6f16-41ea-96f6-f37910d6d4e4.png" width="50%" height="50%">
 
-<img src="https://user-images.githubusercontent.com/63775967/208691574-85450093-3431-47a1-b773-7f787e4fa46c.png" width="75%" height="75%">
+<img src="https://user-images.githubusercontent.com/63775967/208691574-85450093-3431-47a1-b773-7f787e4fa46c.png" width="50%" height="50%">
 
   
 ## 📊 Diagrams
